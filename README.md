@@ -6,6 +6,9 @@ SOFTS# extends SOFTS with a stochastic variable-position encoding procedure and 
 
 This work builds on the original SOFTS repository (https://github.com/Secilia-Cxy/SOFTS) and its SOFTS++ predecessor with minimal changes (https://github.com/hljubic/SOFTSpp).
 
+The preceding SOFTS++ work has been published in *Intelligent Data Analysis*:
+https://journals.sagepub.com/doi/10.1177/1088467X251380055
+
 ## Results
 
 Full results are in the `experiment_results/` directory and image below.
